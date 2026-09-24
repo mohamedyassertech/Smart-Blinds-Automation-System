@@ -39,6 +39,12 @@ Manually opening and closing window blinds throughout the day gets repetitive an
    * **Low Light / Darkness (< 2000):** The motor automatically returns back to position `0` to close the blinds.
 4. **Smooth Movement:** The code uses the non-blocking `AccelStepper` library (speed = 500 steps/sec, acceleration = 250 steps/sec²) so motor movements are smooth and continuous.
 
+
+
+https://github.com/user-attachments/assets/6e3459bd-9762-4844-9bff-532428761903
+
+
+
 ---
 
 ## Arduino / C++ Code 
